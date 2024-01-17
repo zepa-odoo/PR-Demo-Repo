@@ -35,7 +35,7 @@
  	True, False-true, false
  	None- null
 
- RegEX with python
+ RegEX with python import and basic function
  	import re
  	function - .search(), .findall(), .split(), .sub()
  	metacahr - [],\,.,^,$,*,+,?,{},|,()
