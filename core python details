@@ -17,7 +17,7 @@
  	.datetime.now()  
  	.datetime(yyyy,mm,dd)
 
- math:
+ math inbuilt function:
  	min(),max(),abs(),pow()
  	import math
  	.sqrt(), .ceil(), .pi
