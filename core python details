@@ -17,7 +17,7 @@
  	.datetime.now()  
  	.datetime(yyyy,mm,dd)
 
- math:
+ math inbuilt function:
  	min(),max(),abs(),pow()
  	import math
  	.sqrt(), .ceil(), .pi
@@ -35,7 +35,7 @@
  	True, False-true, false
  	None- null
 
- RegEX with python
+ RegEX with python import and basic function
  	import re
  	function - .search(), .findall(), .split(), .sub()
  	metacahr - [],\,.,^,$,*,+,?,{},|,()
